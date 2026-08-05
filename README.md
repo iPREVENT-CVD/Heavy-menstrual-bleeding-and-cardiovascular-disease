@@ -1,8 +1,5 @@
-# Template-Repository
-
-README Template
-# Project Name
-A clear description of what your project does and why it exists.
+# Cardiovascular outcomes in females with heavy menstrual bleeding
+This project was a retrospective cohort study using electronic health care records of females aged 18 to 50 years with and without heavy menstrual bleeding within Southeast Scotland (Health board NHS Lothian).   The aim of the study was to determine whether those with heavy menstrual bleeding had higher risk of cardiovascular disease than those without.
 
 ## Table of Contents
 - [About](#about)
@@ -16,10 +13,13 @@ A clear description of what your project does and why it exists.
 - [Licence](#licence)
 
 ## About
-A more detailed description of your project including:
-- What problem it solves
-- Any relevant background information
-- Links to related projects or publications
+- Problem: Cardiovascular disease is leading cause of morbidity and mortality in females. Studies have suggested that females with heavy menstrual bleeding may have higher risk of future cardiovascular than those without heavy menstrual bleeding. We used a data-drive approach using electronic healthcare records  to design a cohort study to improve understanding of cardiovascular risk in those with heavy menstrual bleeding.
+- Exposures: Heavy menstrual bleeding was defined by (i) a prescription record of tranexamic acid, (ii) hysterectomy with hospital record of heavy menstrual bleeding code and/or (iii) operation record of endometrial ablation. Those without heavy menstrual bleeding had a prescription record of copper intrauterine device and/or operation record of laparascopic sterilisation.
+- Outcomes: (i) non-fatal cardiovascular diseases - ischaemic heart disease (coronary heart disease and myocardial infarction), cerebrovascular disease (stroke, transient ischaemic attack) and venous thromboembolism (pulmonary and other venous thromboembolism), (ii) fatal cardiovascular disease (iii) all cause death and (iv) initiation of anti-hypertensive and/or lipid lowering agents 
+- Data sources: primary care (Vision GP system), secondary care (TrakCare), national Scottish hospital records (Scottish Morbidity Records 01), death records (National Records of Scotland) and prescribing data (Prescribing Information System).
+- Coding of health conditions: primary care - GP Read Codes, hospital and national records - ICD 10 codes, medications - British National Formulary
+- Methods: 
+- Details of definitions used for coding and methods see paper ""
 
 ## Installation
 Step by step instructions to get your code running:
