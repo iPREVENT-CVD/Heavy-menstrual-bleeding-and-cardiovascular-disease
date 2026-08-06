@@ -49,9 +49,7 @@ How to use the code with examples:
 
 ├── 02_descriptive_primary analysis/   # R scripts for descriptive and primary analsysis
 
-├── 03_creating plots/   # R scripts for creating plots used for publication
-
-├── docs/        # (1) Manuscript (2) Supplementary materials?
+├── docs/        # (1) Manuscript (2) Supplementary materials will be uploaded after publication
 
 └── README.md    # This file
 ```
@@ -80,7 +78,7 @@ How to use the code with examples:
 ## Citation
 If you use this code in your research please cite:
 Copy Code
-Author(s), Year, Project Name, University of Edinburgh DOI or URL if available
+Author(s), 2026, Project Name, University of Edinburgh DOI or URL if available
 
 
 ## Licence
