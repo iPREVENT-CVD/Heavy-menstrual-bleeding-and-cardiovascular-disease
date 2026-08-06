@@ -45,12 +45,11 @@ How to use the code with examples:
 
 ## Project Structure
 ```
-├── data/        # Data provided for creating of example plots?
+├── 01_data cleaning/   # R scripts for data cleaning and tidying
 
-├── src/         # R scripts in three folders
-  - (1) 01_data cleaning
-  - (2) 02_methods
-  - (3) 03_creating_plots
+├── 02_descriptive_primary analysis/   # R scripts for descriptive and primary analsysis
+
+├── 03_creating plots/   # R scripts for creating plots used for publication
 
 ├── docs/        # (1) Manuscript (2) Supplementary materials?
 
