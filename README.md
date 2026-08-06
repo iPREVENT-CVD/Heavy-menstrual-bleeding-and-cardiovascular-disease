@@ -61,8 +61,12 @@ How to use the code with examples:
 - R 4.0+
 - RStudio (recommended)
 - Packages required:
-   - tidyverse
-   - ggplot2
+   - tidyverse (ggplot2, dplyr, purr, tibble, forcats, lubridate, stringr)
+   - mice, mitools
+   - survival, survminer
+   - cobalt, WeightIt
+   - broom, patchwork
+  
 
 ## Author
 - Thulani Ashcroft - University of Edinburgh
