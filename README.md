@@ -39,8 +39,7 @@ Download from https://www.rstudio.com/
 4. Install required packages. At the start of the script required packages are stated. If these have not already been downloaded follow these steps to install packages prior to running scripts: (1) Open R or RStudio (2) run install.packages(c("package1", "package2"))
 
 ## Usage
-How to use the code with examples:
-"example code or commands here"
+The R scripts provided in "01_data cleaning" are steps then can be used to clean and link datasets to create a data frame to run the code for the study. The R scripts in "02_descriptive_primary analysis" includes methods used in the study for descriptive summary and creation of cox proportional hazard model with covariate balance propensity scores. No data is provided with the R scripts.
 
 
 ## Project Structure
