@@ -19,8 +19,9 @@ This project was a retrospective cohort study using electronic health care recor
 - Data sources: primary care (Vision GP system), secondary care (TrakCare), national Scottish hospital records (Scottish Morbidity Records 01), death records (National Records of Scotland) and prescribing data (Prescribing Information System).
 - Coding of health conditions: primary care - GP Read Codes, hospital and national records - ICD 10 codes, medications - British National Formulary
 - Methods:
+  - Causal inference for covariate adjustment
   - Multiple imputations were used for missing data as mechanism for missingness was found to be missing at random
-  - Covariate balanced propensity scores (CBPS) were used to address confounding my indication
+  - Covariate balanced propensity scores (CBPS) were used to address confounding by indication
   - Double adjusted approach used CBPS and cox proportional hazards models to estimate risk of cardiovascular disease in those with heavy menstrual bleeding compared to those without.
 - Details of definitions used for coding and methods see manuscript and supplementary materials
 
@@ -48,7 +49,7 @@ The R scripts provided in "01_data cleaning" are steps then can be used to clean
 
 ├── 02_descriptive_primary analysis/   # R scripts for descriptive and primary analsysis
 
-├── docs/        # (1) Manuscript (2) Supplementary materials will be uploaded after publication
+├── 03_DAG  # R scripts for directed acyclic graphs for causal inference
 
 └── README.md    # This file
 ```
@@ -62,6 +63,7 @@ The R scripts provided in "01_data cleaning" are steps then can be used to clean
    - survival, survminer
    - cobalt, WeightIt
    - broom, patchwork
+   - dagitty
   
 
 ## Author
@@ -70,8 +72,11 @@ The R scripts provided in "01_data cleaning" are steps then can be used to clean
 
 
 ## Acknowledgements
-- Funding source: This work was supported by the Medical Research Council, Precision Medicine Grant (MR/W006804/1).
-- This code was produced for manuscript "" - see citation below.
+- Funding sources:
+  - Thulani Ashcroft: This work was supported by the Medical Research Council, Precision Medicine Grant (MR/W006804/1).
+  - Jacqueline Maybin:
+  - Dorien Kimenai
+- This code was produced for manuscript "" - add citation.
 
 
 ## Citation
