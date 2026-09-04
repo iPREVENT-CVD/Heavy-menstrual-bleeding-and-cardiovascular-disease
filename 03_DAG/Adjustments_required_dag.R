@@ -1,4 +1,7 @@
 #R script to identify minimal covariates for adjustment and all adjustments for the association between heavy menstrual bleeding and cardiovascular outcomes
+# Reference for use of dagitty:	Textor J, van der Zander B, Gilthorpe MS, Liśkiewicz M, Ellison GT. 
+#Robust causal inference using directed acyclic graphs: the R package ‘dagitty’. 
+#International Journal of Epidemiology. 2016;45(6):1887-1894. doi:10.1093/ije/dyw341
 
 library(dagitty)
 
