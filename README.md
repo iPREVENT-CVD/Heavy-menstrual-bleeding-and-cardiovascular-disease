@@ -28,7 +28,7 @@ This project was a retrospective cohort study using electronic health care recor
 ## Installation
 Step by step instructions to get your code running:
 1. Clone the repository
-git clone https://github.com/yourorganisation/yourrepository.git????
+git clone https://github.com/iPREVENT-CVD/Heavy-menstrual-bleeding-and-cardiovascular-disease.git
 
 2. Install R
 Download and install R from https://www.r-project.org/
