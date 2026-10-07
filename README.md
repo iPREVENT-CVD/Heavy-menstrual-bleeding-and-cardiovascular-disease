@@ -68,21 +68,17 @@ The R scripts provided in "01_data cleaning" are steps then can be used to clean
 
 ## Author
 - Thulani Ashcroft - University of Edinburgh
-- Collaborators - Marie de Bakker, Dorien Kimenai, Dave Yeung
+- Collaborators: Marie de Bakker, Dorien Kimenai, Dave Yeung, Peter Gallacher - University of Edinburgh
 
 
 ## Acknowledgements
-- Funding sources:
-  - Thulani Ashcroft: This work was supported by the Medical Research Council, Precision Medicine Grant (MR/W006804/1).
-  - Jacqueline Maybin:
-  - Dorien Kimenai
-- This code was produced for manuscript "" - add citation.
+This work was supported by the Medical Research Council, Precision Medicine Grant (MR/W006804/1) and Health Data Research UK which receives its funding from HDR UK Ltd (HDR-5012) funded by the UK Medical Research Council, Engineering and Physical Sciences Research Council, Economic and Social Research Council, Department of Health and Social Care (England), Chief Scientist Office of the Scottish Government Health and Social Care Directorates, Health and Social Care Research and Development Division (Welsh Government), Public Health Agency (Northern Ireland), British Heart Foundation and the Wellcome Trust. JAM received salary support from Wellcome Fellowship 209589/Z/17/Z and DMK is supported by an Intermediate Basic Science Research Fellowship and Research Excellence Award from the British Heart Foundation (FS/IBSRF/23/25161, RE/24/130012). TA and DMK had full access to all the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.
 
 
 ## Citation
 If you use this code in your research please cite:
 Copy Code
-Author(s), 2026, Project Name, University of Edinburgh DOI or URL if available
+(placeholder)
 
 
 ## Licence
